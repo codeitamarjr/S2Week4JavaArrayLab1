@@ -1,4 +1,5 @@
 ##Revision of Array
+
 ###Write statements to the following:
 (a) an array of floating-point numbers with ten elements
 

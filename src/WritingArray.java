@@ -19,8 +19,9 @@ public class WritingArray {
             assignArrayKeyboard[count] = keyboard.nextInt();
         }
 
-        for (int count = 0; count < assignArrayKeyboard.length ; count++){
-        System.out.println(assignArrayKeyboard[count]);
+        //this is an enhancement for loop:
+        for (int i : assignArrayKeyboard) {
+            System.out.println(i);
         }
         //(f) assign values to a 6 - element array of Strings with strings entered from the keyboard.
         String[] stringArray = new String[6];
