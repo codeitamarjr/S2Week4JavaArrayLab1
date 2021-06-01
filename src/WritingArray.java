@@ -18,7 +18,6 @@ public class WritingArray {
             System.out.println("Input the value #"+(count+1));
             assignArrayKeyboard[count] = keyboard.nextInt();
         }
-
         //this is an enhancement for loop:
         for (int i : assignArrayKeyboard) {
             System.out.println(i);
@@ -29,7 +28,6 @@ public class WritingArray {
             System.out.println("Input the String #"+(count+1));
             stringArray[count]= keyboard.next();
         }
-
         for (int count = 0; count < stringArray.length ; count ++){
             System.out.println(stringArray[count]);
         }
