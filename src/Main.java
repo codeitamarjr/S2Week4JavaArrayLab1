@@ -5,5 +5,8 @@ public class Main {
         //StudentMarks.averageMarks();
         //NumbersOutput.output();
         //FixedVariableCosts.coasts();
+        //VowelCount.vowel();
+        CountingLetters.counting();
+
     }
 }

@@ -93,3 +93,46 @@ The cost of producing 5 of item 6 is 18.20 <——output
 (note:18.20=5*1.28+11.80)
 
 Solution:FixedVariableCosts 
+
+###6. Write a program that inputs a single character from the keyboard until the
+character 'x' or 'X' is input.
+The program then displays a count of each upper-case and lower-case vowel input.
+(Note: A vowel is one of the following: a e i o u A E I O U)
+
+Example:
+
+Input a character:B <——input
+
+Input a character:A
+
+Input a character:a
+
+Input a character:O
+
+Input a character:P
+
+Input a character:U
+
+Input a character:i
+
+Input a character:A
+
+Input a character:I
+
+Input a character:E
+
+Input a character:a
+
+Input a character:E
+
+Input a character:U
+
+Input a character:x
+
+Vowel Counts: a=2 e=0 i=1 o=0 u=0 A=2 E=2 I=1 O=1 U=2 <——output
+
+Use an array to store the count for each of the 10 vowels.
+
+Solution:VowelCount
+
+###7 Write a program to inputs ten words from the keyboard and displays the number of times each letter of the alphabet occurs. Ignore the difference between upper and lower case letters. 
