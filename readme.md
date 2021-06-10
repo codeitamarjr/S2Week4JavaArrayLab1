@@ -135,4 +135,26 @@ Use an array to store the count for each of the 10 vowels.
 
 Solution:VowelCount
 
-### 7 Write a program to inputs ten words from the keyboard and displays the number of times each letter of the alphabet occurs. Ignore the difference between upper and lower case letters. 
+### 7. Write a program to inputs ten words from the keyboard and displays the number of times each letter of the alphabet occurs. Ignore the difference between upper and lower case letters.
+
+### 8.Write a program to
+(i) initialise an array with any ten values
+
+(ii) display the array
+
+(iii)Input a character from the keyboard. The character must be either ‘L’,’l’,’R’
+or ‘r’.
+
+(iv)Shift the elements of the array left or right depending on the character input
+in (iii) above.
+e.g. left-shift:
+
+(v) display the shifted array
+                Example:
+The array 1,8,9,4,22,33,48,72,18,19,20
+
+shifted left is 8,9,4,22,33,48,72,18,19,20,1
+
+shifted right is 20, 1,8,9,4,22,33,48,72,18,19
+
+Solution:ArrayShift
