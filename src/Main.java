@@ -6,7 +6,7 @@ public class Main {
         //NumbersOutput.output();
         //FixedVariableCosts.coasts();
         //VowelCount.vowel();
-        CountingLetters.counting();
+        //CountingLetters.counting();
 
     }
 }
